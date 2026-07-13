@@ -1,0 +1,10 @@
+  <style>
+    .box {
+      width: 250px;
+      padding: 20px;          /* Padding */
+      margin: 60px auto;      /* Margin (auto centers it) */
+      border: 3px solid #333; /* Box Model border */
+      box-shadow: 5px 5px 15px gray; /* Box Shadow */
+      text-align: center;     /* Text Align */
+    }
+  </style>
